@@ -14,3 +14,22 @@ I wrote the 'Do it! Kotlin Programming'. In this textbook, I will cover all of n
 두잇! 코틀린 프로그래밍을 쓰면서 많은 예제를 통해 문법, 함수, 클래스등의 모든 기능을 다룰것입니다. 예제는 언제든 다운로드 받을 수 있도록 여러분들에게 제공합니다. 
 
 
+## 안드로이드 소스
+ 
+12장부터 나열된 안드로이드 소스는 아래에 따로 링크해 배포합니다.
+
+ - 준비중  
+
+
+## 출간된 책
+'Do it! 코틀린 프로그래밍'책이 출간되었습니다. 다음 링크를 통해 책을 만날 수 있습니다.  
+
+<div style="clear:left;text-align:left;"><div style="float:left;margin:0 15px 5px 0;"><a href="http://www.yes24.com/Product/Goods/74035266" style="display:inline-block;overflow:hidden;border:solid 1px #ccc;" target="_blank"><img style="margin:-1px;vertical-align:top;" src="http://image.yes24.com/goods/74035266/M" border="0" alt="Do it! 코틀린 프로그래밍 "></a></div><div><p style="line-height:1.2em;color:#333;font-size:14px;font-weight:bold;">Do it! 코틀린 프로그래밍 </p><p style="margin-top:5px;line-height:1.2em;color:#666;"><a href="http://www.yes24.com/SearchCorner/Result?domain=ALL&author_yn=Y&query=&auth_no=263332" target="_blank">황영덕</a> 저</p><p style="margin-top:14px;line-height:1.5em;text-align:justify;color:#999;">1.3 최신 버전으로 배우는 코틀린의 모든 것!한 번 배울 때 안드로이드 전문 개발자에게 제대로 배우자!안드로이드 분야에서 10년 넘게 개발한 저자가 산전수전 다 겪으며 알게 된 내용을 혼자만 알기가 아까워 책까지 썼다. 전반부에는 변수, 제어문, 함수형 프로그래밍, 객체 지향 프로그래밍, 코틀린 라이브러리 등 코틀...</p></div></div>
+
+## 저자의 블로그 및 출판사 카페
+[acaroom.net](acaroom.net)의 블로그를 통해서 책에 일부 내용을 소개하거나 책을 보강하는 코틀린 프로젝트의 추가된 글들을 살펴볼 수 있습니다. 출판사 카페에서는 스터디 운영이나 질문에 대한 답볍을 합니다.
+
+ - [Do it! 코틀린 프로그래밍 연재 바로가기](https://acaroom.net/ko/blog/youngdeok/do-it-kotlin-programming)
+ - [Do it! 코틀린 프로젝트 연재 바로가기](https://acaroom.net/ko/blog/youngdeok/%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-do-it-%EC%9D%B8%EA%B8%B0-%EC%98%81%ED%99%94-%EC%95%B1-%EC%A0%9C%EC%9E%91)
+ - [이지스 퍼블리싱의 Do it! 스터디 카페](https://cafe.naver.com/doitstudyroom)
+
