@@ -34,6 +34,10 @@ fun main() {
         println("Current Threads(lambda): ${Thread.currentThread()}")
     }).start()
 
+    // 람다식을 이용한 스레드의 생성 (중괄호 생략 표현)
+    Thread {
+        println("Current Threads(lambda): ${Thread.currentThread()}")
+    }.start()
 
 
 }

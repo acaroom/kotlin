@@ -1,7 +1,5 @@
 package chap02.section2
 
-import sun.font.TrueTypeFont
-
 fun main() {
 
     val number = 10  // number는 Int로 추론

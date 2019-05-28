@@ -1,5 +1,7 @@
 package chap10.section3
 
+import java.io.FileWriter
+
 fun main() {
 
     val outString: String = "안녕하세요!\tHello\r\nWorld!."
@@ -37,6 +39,6 @@ fun main() {
 //    }
 
     // 5. FileWriter를 사용한 기록 - 축소
-//    FileWriter(path, true).use { it.write(outString) }
+    FileWriter(path, true).use { it.write(outString) }
 
 }

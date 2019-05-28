@@ -17,7 +17,7 @@ class Bird(var name: String, var wing: Int, var beak: String, var color: String)
 
 fun main() {
 
-    val coco = Bird("mybird", 2, "short", "blue")
+    val coco = Bird("mybird", 2, "short", "blue") // 객체 생성과 함께 초기화 블록 수행
 
     coco.color = "yellow"
     println("coco.color: ${coco.color}")
