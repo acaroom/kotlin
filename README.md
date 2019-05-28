@@ -18,7 +18,15 @@ I wrote the 'Do it! Kotlin Programming'. In this textbook, I will cover all of n
  
 12장부터 나열된 안드로이드 소스는 아래에 따로 링크해 배포합니다.
 
- - 준비중  
+ - [HelloAndroid](https://github.com/acaroom/HelloAndroid)
+ - [RecyclerViewPet](https://github.com/acaroom/RecyclerViewPet)
+ - [CustomViewEx](https://github.com/acaroom/CustomViewEx)
+ - [FragmentEx](https://github.com/acaroom/FragmentEx)
+ - [MessageUiThread](https://github.com/acaroom/MessageUiThread)
+ - [CountdownEx](https://github.com/acaroom/CountdownEx)
+ - [AnkoCommonsEx](https://github.com/acaroom/AnkoCommonsEx)
+ - [AnkoLayoutEx](https://github.com/acaroom/AnkoLayoutEx)
+ - [SignInEx](https://github.com/acaroom/SignInEx)
 
 
 ## 출간된 책
