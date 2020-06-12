@@ -21,12 +21,12 @@ class Outer {
 }
 
 fun main() {
-    // static 처럼 객체 생성 없이 사용된다.
+    // static 처럼 Outer의 객체 생성 없이 Nested객체를 생성 사용할 수 있음
     val output = Outer.Nested().greeting()
     println(output)
     Outer.Nested().accessOuter()
 
-   // Outer.outside()  // 에러! 외부 클래스의 경우는 객체를 생성해야 한다
+    //Outer.outside()  // 에러! 객체 생성 필요
     val outer = Outer()
     outer.outside()
 }

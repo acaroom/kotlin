@@ -11,7 +11,7 @@ open class Base {
         public val e: Int = 5 // public 생략 가능
         private val f: Int = 6
         fun test() {
-            println(Base().a)
+            println(Base().a) // protected 에서는 private 멤버 a도 접근 가능
             println(Base().b)
             println(Base().c)
             println(Base().d)
@@ -25,7 +25,7 @@ open class Base {
         println(Base().c)
         println(Base().d)
         println(Nested().e)
-        //println(Nested().f)
+        //println(Nested().f)  // private멤버로 접근 불가
     }
 }
 
@@ -35,13 +35,13 @@ class Derived : Base() {
     // Nested 클래스의 e도 접근 가능
     override val b = 5   // Base의 'b' 는 오버라이딩 됨
     fun test(base: Base) {
-        //println(base.a)
-        println(super.b)
+        //println(base.a) // private으로 접근 불가
+        println(super.b)  // 파생 클래스에서 상위 클래스의 b 접근
         println(b)
         println(base.c)
         println(base.d)
         println(Nested().e)
-        //println(Nested().f)
+        //println(Nested().f) // private으로 접근 불가
     }
 }
 class Other(base: Base) {

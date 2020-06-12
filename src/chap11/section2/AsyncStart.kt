@@ -21,4 +21,13 @@ fun main() = runBlocking {
         println("AWAIT: ${one.await() + "_" + two.await()}")
     }
     println("Completed in $time ms")
+
+    launch(Dispatchers.Default) {
+
+    }
+
+    async(Dispatchers.Default) {
+
+    }
+
 }

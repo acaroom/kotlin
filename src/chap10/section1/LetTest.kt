@@ -16,7 +16,9 @@ fun main() {
     fun checkScoreLet() {
         score?.let { println("Score: $it") } // (1)
         val str = score.let { it.toString() } // (2)
+        val cal = score?.let { it + 10 } // (2)
         println(str)
+        println("cal $cal")
     }
 
     checkScore()
